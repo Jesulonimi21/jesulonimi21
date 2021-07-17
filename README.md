@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Jesulonimi, a Blockchain Engineer, skills include:
 - Drawing UML Diagrams to help model complex business problems
-- Good Understamding of Blockchain Architecture and Privacy using Ring Cryptography, Merkle Trees, Zero Knowledge Proofs  and Differential Privacy.
+- Good Understanding of Blockchain Architecture and Privacy using Ring Cryptography, Merkle Trees, Zero-Knowledge Proofs  and Differential Privacy.
 - Great Smart Contract Development skills on Algorand and Etherium Blockchain
 - Solidity, Teal and Reach smart contract Languages
 - Android(JAVA/Kotlin), Swift(IOS), react-native(cross-platform), react(Web), Nodejs(Server side)
@@ -16,7 +16,6 @@ Some of My public Github Projects i will love you to check out are:
 - [Star Notary Dapp](https://github.com/Jesulonimi21/StarNotaryDApp)
 
 Thanks for visiting, you can contact me on telegram by clicking [here](https://t.me/jesulonimi)
-
 <!--
 **Jesulonimi21/jesulonimi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
