@@ -16,6 +16,8 @@ Some of My public Github Projects i will love you to check out are:
 - [Star Notary Dapp](https://github.com/Jesulonimi21/StarNotaryDApp)
 
 Thanks for visiting, you can contact me on telegram by clicking [here](https://t.me/jesulonimi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jesulonimi21)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Jesulonimi21/jesulonimi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
