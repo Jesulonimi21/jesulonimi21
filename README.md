@@ -1,12 +1,11 @@
 ### Hi there 👋
 I am Jesulonimi, a Blockchain Engineer, skills include:
 - Full Stack: NodeJS, typescript, tailwind, AWS
-- Drawing UML Diagrams to help model complex business problems
-- Good Understanding of Blockchain Architecture and Privacy using Ring Cryptography, Merkle Trees, Zero-Knowledge Proofs  and Differential Privacy.
-- Great Smart Contract Development skills on Algorand and Ethereum Blockchain
-- Solidity, Teal and Reach smart contract Languages
-- Android(JAVA/Kotlin), Swift(IOS), react-native(cross-platform), react(Web), Nodejs(Server side)
+- Great Smart Contract Development skills on Algorand, Substrate and Ethereum Blockchain
 - Working with DFS(Distributed File Systems) using IPFS.
+- Good Understanding of Blockchain Architecture and Privacy using Ring Cryptography, Merkle Trees, Zero-Knowledge Proofs  and Differential Privacy.
+- Solidity, Rust, Teal and Reach smart contract Languages
+- Android(JAVA/Kotlin), Swift(IOS), react-native(cross-platform), react(Web), Nodejs(Server side)
 
 Some of My public Github Projects I will love you to check out are:
 - [Swift Algorand SDK](https://github.com/Jesulonimi21/Swift-Algorand-Sdk)
